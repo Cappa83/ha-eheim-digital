@@ -1,0 +1,8 @@
+{
+  "name": "EHEIM Professional 5e",
+  "content_in_root": false,
+  "domains": [
+    "eheim_professional_5e"
+  ],
+  "homeassistant": "2023.9.0"
+}
